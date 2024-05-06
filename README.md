@@ -13,6 +13,6 @@ Software used:
 • Azure Database
 • ER Assistant
 
-![Alt text](image_url)
+![Database ERD]([image_url](https://github.com/v0ila786/GymManagementSystem/blob/master/erd.JPG?raw=true))
 
 
